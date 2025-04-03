@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>자기소개</title>
+</head>
+<header>
+<body>
+<h3>About me</h3>
+<hr>
+<p>
+안녕하세요 명지전문대 컴퓨터 공학과 조은성입니다.
+컴퓨터를 이론으로 처음 접해봐서 잘 모르지만 열심히 배우겠습니다.
+</p>
+</body>
+</header>
+<nav>
+    <h3>목차</h3>
+<hr>
+<ul>
+	<li><a href="#1">관심 분야</a>
+	<li><a href="#2">취미 활동</a>
+	<li><a href="#3">강의 시간표</a>
+</ul>
+</nav>
+<body>
+<section>
+<article>
+<h3 id="#1">관심 분야</h3>
+<hr>
+<ul>
+    <li>스포츠(sports)
+        <ul>
+            <li>축구
+            <li>농구            
+            <li>야구
+            <li>스포츠 운동은 다 관심있다.
+        </ul>
+    <li>음악
+        <ul>
+            <li>클래식 음악
+            <li>고전 음악
+        </ul>
+</ul>
+</body>
+</article>
+<article>
+<body>
+<h3 id="#2">취미 활동</h3>
+<hr>
+<table border="1">
+    <tbody>
+        <tr>
+            <td><img src="C:\webcontents\2025103108\media\음악 듣기.jfif"alt="사진 주소 변경됨"width="300" height="200"></td>
+            <td><img src="C:\webcontents\2025103108\media\악기 다루기.jfif"alt="사진 주소 변경됨"width="200" height="200"></td> 
+        <td><img src="C:\webcontents\2025103108\media\운동.jfif"alt="사진 주소 변경됨"width="300" height="200"></td>
+        </tr>
+        <tfoot>
+            <tr><th>음악 듣기</th><th>악기 다루기</th><th>운동</th></tr>
+        </tfoot>
+    </tbody>
+</table>
+</article>
+</body>
+<article>
+<h3 id="#3">강의 시간표</h3>
+<hr>
+<table border="1">
+<thead>
+    <tr>
+        <th>구분</th>
+        <th>월</th>
+        <th>화</th>
+        <th>수</th>
+        <th>목</th>
+        <th>금</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>09</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td></td>
+        <td rowspan="3">프로그래밍언어실습I<br></td>
+        <td></td>
+        <td rowspan="3">컴퓨터과학개론<br></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td></td>
+        <td></td>
+        <td rowspan="2">SW개발문제해결능력<br></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td></td>
+        <td rowspan="2">컴퓨팅사고력<br></td>
+        <td rowspan="3">인터넷콘텐츠<br></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>05</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>06</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</tbody>
+</table>
+</article>
+</section>
+<footer>
+    <hr>
+    <a href="file:///C:/webcontents/2025103108/4%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.html"target="_blank">설문조사</a>
+    <p>2025년 3월 27일 작성</p>
+</footer>
+</html>
